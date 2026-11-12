@@ -5,13 +5,18 @@ Disallow: /landing
 # AI search tools are welcome to read the site
 User-agent: GPTBot
 Allow: /
+Disallow: /landing
 User-agent: OAI-SearchBot
 Allow: /
+Disallow: /landing
 User-agent: PerplexityBot
 Allow: /
+Disallow: /landing
 User-agent: ClaudeBot
 Allow: /
+Disallow: /landing
 User-agent: Google-Extended
 Allow: /
+Disallow: /landing
 
 Sitemap: https://www.sodakservices.com/sitemap.xml
