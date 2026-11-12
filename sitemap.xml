@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://www.sodakservices.com/</loc><lastmod>2026-11-11</lastmod><priority>1.0</priority></url>
   <url><loc>https://www.sodakservices.com/services/</loc><priority>0.7</priority></url>
-  <url><loc>https://www.sodakservices.com/services/lawn-mowing/</loc><priority>0.9</priority></url>
+  <url><loc>https://www.sodakservices.com/services/lawn-mowing/</loc><lastmod>2026-11-12</lastmod><priority>0.9</priority></url>
   <url><loc>https://www.sodakservices.com/services/landscaping/</loc><priority>0.7</priority></url>
   <url><loc>https://www.sodakservices.com/services/cleanups/</loc><priority>0.7</priority></url>
   <url><loc>https://www.sodakservices.com/services/commercial/</loc><priority>0.7</priority></url>
-  <url><loc>https://www.sodakservices.com/pricing/</loc><priority>0.7</priority></url>
+  <url><loc>https://www.sodakservices.com/pricing/</loc><lastmod>2026-11-12</lastmod><priority>0.7</priority></url>
   <url><loc>https://www.sodakservices.com/about/</loc><priority>0.7</priority></url>
   <url><loc>https://www.sodakservices.com/service-area/</loc><priority>0.7</priority></url>
   <url><loc>https://www.sodakservices.com/offers/</loc><priority>0.7</priority></url>
